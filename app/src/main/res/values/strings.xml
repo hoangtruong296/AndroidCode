@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android Code</string>
+    <string name="msg_input_full">Vui lòng nhập đầy đủ thông tin!</string>
+    <string name="msg_submit_success">Submit thành công!</string>
+    <string name="label_name">Tên</string>
+    <string name="label_date">Ngày cấp</string>
+    <string name="label_vehicle">Loại xe</string>
+    <string name="msg_toast_success">Gửi dữ liệu thành công</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
